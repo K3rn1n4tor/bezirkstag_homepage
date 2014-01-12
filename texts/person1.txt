@@ -1,0 +1,4 @@
+img:Harald.jpg
+name:Harald Schwab
+
+Dies ist eine Beschreibung zu Person 1
