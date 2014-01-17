@@ -31,13 +31,6 @@
 	
 }
 
-#content_img {
-	padding-left: 50px;
-	padding-right: 50px;
-	width: 200px;
-	float:left;
-}
-
 #content_txt {
 	width: 800px;
 }
@@ -47,9 +40,35 @@
 	width: auto;
 }
 
+#content_img {
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 200px;
+	float: left;
+}
+
 #content_img img
 {
 	border-width: 2px;
 	border-style: solid;
 	border-color: black;
+}
+
+.member_image {
+	border-width: 2px;
+	border-style: solid;
+	border-color: #005c8a;
+	
+	margin-right: 20px;
+	
+	float: left;
+}
+
+.member_seperator {
+	margin-top: 24px;
+	margin-bottom: 24px;
+	height: 2px;
+	width: auto;
+	background: #0089ce;
+	border-bottom: 2px solid #005c8a;	
 }

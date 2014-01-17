@@ -48,7 +48,22 @@
 			break;
 	
 		case 1:
-			echo "Bezirksräte";
+			
+			?>
+			<name>Bezirksräte</name><br><br>
+			<img class='member_image' src='https://sessionnet.edv-obb.de/bi/im/pe7.jpg' alt='Steinberger'>
+			<name>Josef Mederer</name><br>
+			<function>Bezirkstagspräsident</function><br><br>
+			<info>Test1: </info>Test
+			<div id='content_clear'></div>
+			<div class='member_seperator'></div>
+			<img class='member_image' src='https://sessionnet.edv-obb.de/bi/im/pe9.jpg' alt='Steinberger'>
+			<name>Friederike Steinberger</name><br>
+			<function>Stellvertretende CSU-Bezirksvorsitzende</function><br><br>
+			<info>Test1: </info>Test
+			<div id='content_clear'></div>
+			<div class='member_seperator'></div>
+			<?php 
 			break;
 			
 		case 2:

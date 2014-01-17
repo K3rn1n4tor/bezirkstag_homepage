@@ -8,8 +8,23 @@ h1 {
 }
 
 name {
+	color: #0089cf;
+	font-size: 18pt;
+	font-style: italic;
+	font-weight: bold;
+}
+
+function {
+	color: black;
+	opacity: 0.75;
+	font-size: 14pt;
+	font-style: italic;
+	font-weight: none;
+}
+
+info {
 	font-color: black;
-	font-size: 16pt;
+	font-size: 12pt;
 	font-style: italic;
 	font-weight: bold;
 }
