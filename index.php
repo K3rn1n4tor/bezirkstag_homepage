@@ -18,7 +18,13 @@
 		?>
 		</div>
 	</div>
-	<div id='content_back'>
+	<div id='container'>
+		<div id='navi' align='center'>
+		<tab class='default'><a href=''>Startseite</a></tab>
+		<tab class='default'><a href=''>Bezirksräte</a></tab>
+		<tab class='default'><a href=''>Links</a></tab>
+		<tab class='default'><a href=''>Kontakt</a></tab>
+		</div>
 		<div id='container' align='center'>
 			<?php
 				include "content.php";

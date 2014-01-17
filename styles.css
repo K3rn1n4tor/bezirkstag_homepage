@@ -9,8 +9,8 @@
 body {
 	/*background-color: #edf6ff;*/
 	background:-moz-linear-gradient(bottom,#c3cfdb,#ecf5fa); /* Firefox */
-	background:-webkit-gradient(linear,left top,left bottom,from(#007dbd),to(#ecf5fa)); /* Chrome, Safari */
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dbd',endColorstr='#ecf5fa'); /* Internet Explorer */
+	background:-webkit-gradient(linear,left top,left bottom,from(#ecf5fa),to(#c3cfdb)); /* Chrome, Safari */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#c3cfdb',endColorstr='#ecf5fa'); /* Internet Explorer */
 	font-family: Verdana, sans-serif;
 	width: auto;
 	height: 2000px; /* test-height */
@@ -56,12 +56,6 @@ body {
 	float:left;
 }
 
-#content_back {
-	/*background-color: #edf6ff;*/
-	height: auto;
-	width: auto;
-}
-
 #container {
 	width: 1024px;
 	margin-left: auto;
@@ -69,21 +63,55 @@ body {
 	text-align: center;
 }
 
+#navi {
+	margin-top:120px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	float: left;
+	text-align: center;
+}
+
+#navi tab {
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	height: 70px;
+	background-size: 100%;
+	line-height: 70px;
+	vertical-align: middle;
+	float:left;
+}
+
+#navi tab a {
+	text-decoration: none;
+	color: white;
+}
+
+#navi .default {
+	background-image: url(images/ButtonDefault.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
 #content {
 	/* draw border inside content division */
 	-moz-box-sizing:    border-box;
    -webkit-box-sizing: border-box;
     box-sizing:        border-box;
+    
 	border-width: 2px;
 	border-style: solid;
 	border-color: #222255;
+	
 	background-color: #edf8ff;
 	text-align: left;
 	padding-top: 40px;
 	padding-left: 20px;
 	padding-right: 20px;
 	width: 824px;
-	margin-left:200px;
+	float: left;
+	position: relative;
 	/*box-shadow: 2px 2px #445*/
 }
 
