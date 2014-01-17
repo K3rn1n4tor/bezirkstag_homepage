@@ -1,0 +1,24 @@
+@CHARSET "utf-8";
+
+#header_back {
+	/*background-color: #007dbd;*/
+	height: 200px;
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	
+	border-style:solid;
+	border-width:1px;
+	
+}
+
+#header_content {
+	position: relative;
+	float: left;
+	
+	margin-top: 20px;
+	height: 70px;
+	width: 824px;
+	
+	text-align: center;
+}

@@ -1,0 +1,26 @@
+@CHARSET "utf-8";
+
+#logo_content {
+	position: relative;
+	float: left;
+	
+	width: 200px;
+	height: 200px;
+	
+}
+
+.csu_logo {
+	width: 180px;
+	height: auto;
+	
+	margin-top: 20px;
+}
+
+
+
+.obb_logo {
+	width: 80px;
+	height: auto;
+	
+	margin-top: 10px;
+}

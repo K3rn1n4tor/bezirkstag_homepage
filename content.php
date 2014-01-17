@@ -3,8 +3,69 @@
 
 	// links: https://sessionnet.edv-obb.de/bi/kp0040.asp?__kgrnr=1 -> Liste und Kontaktinfos zu allen Mitgliedern
 
-	$textdir = "texts/";
+	$page = 0;
+	if (isset($_GET['page']))
+	{
+		$page = $_GET['page'];
+	}
+	
+	switch($page)
+	{
+		case 0:?>
+			<img src="images/Josef_Loy.jpg" style="float:left; margin-right: 20px; margin-top: 12px;" alt="Josef Loy">
+			<strong><i>
+			<p>Ein herzliches Grüß Gott auf unserer Internetseite.</p>
+			<br>
+			<p>Die CSU-Fraktion im Bezirkstag von Oberbayern ist mit 30 Mitgliedern die stärkste Fraktion.</p>
+			<br>
+			<p>Mit  Josef Mederer als unserem Bezirkstagspräsidenten, Friederike Steinberger als 
+			   Vizepräsidentin und einer  starken Fraktion mit Fachkompetenz in den bezirklichen Sachthemen, 
+			   bestimmen und gestalten wir die Arbeit und die Zukunft im Bezirk Oberbayern.</p>
+			<br>
+			<p>Besonders wichtig sind dabei die Bereiche:</p>
+			<br>
+			<ul style='margin-left: 20px;' type="square">
+				<li>Soziale Verantwortung, für Menschen mit Behinderung und Hilfe im Alter,</li>
+				<li>Gesundheitsversorgung, für psychisch kranke Mitmenschen,</li>
+				<li>Förderung der Jugendarbeit,</li>
+				<li>Pflege der oberbayerischen Kultur, Heimat, Brauchtum, Volksmusik, Trachten, Denkmalpflege, Museeumsarbeit, Umwelt,</li>
+				<li>Bildung in besonderen Fördereinrichtungen</li>
+				<li>Solide Finanzwirtschaft mit ausgeglichenem Haushalt.</li>
+			</ul>
+			<br>
+			<p>All diese Bereiche sind in unseren Schwerpunkten der Bezirksarbeit der CSU-Fraktion zusammengefasst und detailliert
+			   dargestellt. Dort können Sie sich einen vertieften Einblick in unsere umfängliche, notwendige und wichtige Arbeit 
+			   als dritte kommunale Ebene in Oberbayern verschaffen.</p>
+			 
+			<p>Danke für Ihr Interesse und bei Fragen wenden Sie sich bitte an </p>
+			<br>
+			<p>Josef Loy,</p>
+			<br>
+			<p>Fraktionsvorsitzender der CSU im Bezirkstag von Oberbayern.</p>
+			
+			</strong></i>
+			<?php
+			break;
+	
+		case 1:
+			echo "Bezirksräte";
+			break;
+			
+		case 2:
+			echo "Links";
+			break;
+				
+		case 3:
+			echo "Kontakt";
+			break;
+	}
+
+	
+	
+	/*$textdir = "texts/";
 	$imgdir = "images/";
+	
+	// code to read text files in a given directory
 	if (is_dir($textdir))
 	{
 		if ($dh = opendir($textdir))
@@ -58,6 +119,6 @@
 				fclose($fh);
 			}
 		}
-	}
+	}*/
 ?>
 </div>

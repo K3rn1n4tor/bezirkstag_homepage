@@ -1,0 +1,40 @@
+@CHARSET "utf-8";
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+body {
+	/*background-color: #edf6ff;*/
+	background:-moz-linear-gradient(top,#ecf5fa,#c3cfdb); /* Firefox */
+	background:-webkit-gradient(linear,left top,left bottom,from(#ecf5fa),to(#c3cfdb)); /* Chrome, Safari */
+	background:-ms-linear-gradient(top,#ecf5fa,#c3cfdb); /* Internet Explorer 10+ */
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ecf5fa',endColorstr='#c3cfdb'); /* Internet Explorer < 10*/
+	font-family: Helvetica, sans-serif;
+	width: auto;
+	height: 100vh; /* test-height */
+}
+
+/* describes width of the whole wep-page content*/
+#container {
+	width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#left_section {
+	position: relative;
+	float: left;
+	width: 200px;
+	height: auto;
+}
+
+#right_section {
+	position: relative;
+	float: left;
+	width: 824px;
+	height: auto;
+}
