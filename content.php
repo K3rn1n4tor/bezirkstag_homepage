@@ -199,6 +199,18 @@
 			
 		case 3:
 			echo "<headline><center>Links</center></headline><br>";
+			
+			?>
+			<strong>
+			<ul>
+			<li style='margin-left: 20px;' type="square">CSU – Christlich-Soziale Union<br><a class='link_url' href='www.csu.de'>www.csu.de</a></li><br>
+			<li style='margin-left: 20px;' type="square">Die Fraktion der CSU im Bayerischen Landtag<br><a class='link_url' href='www.csu.de'>www.csu-landtag.de</a></li><br>
+			<li style='margin-left: 20px;' type="square">Die CSU Abgeordneten im Deutschen Bundestag<br><a class='link_url' href='www.csu.de'>www.csu-landesgruppe.de</a></li><br>
+			<li style='margin-left: 20px;' type="square">Die CSU Abgeordneten im Europäischen Parlament<br><a class='link_url' href='www.csu.de'>www.csu-europagruppe.de</a></li><br>
+			</ul>
+			</strong>
+			
+			<?php
 			break;
 	}
 

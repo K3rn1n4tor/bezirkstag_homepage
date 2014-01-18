@@ -97,3 +97,9 @@
 .highlight {
 	display:none;
 }
+
+.link_url {
+	text-decoration: none;
+	color: #0089cf;
+	font-weight: bold;
+}
