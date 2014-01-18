@@ -14,9 +14,14 @@ name {
 	font-weight: bold;
 }
 
+name a {
+	color: #0089cf;
+	text-decoration: none;
+}
+
 function {
 	color: black;
-	opacity: 0.75;
+	opacity: 0.7;
 	font-size: 14pt;
 	font-style: italic;
 	font-weight: none;
@@ -27,4 +32,32 @@ info {
 	font-size: 12pt;
 	font-style: italic;
 	font-weight: bold;
+}
+
+table, tr, td
+{
+	padding: 1px;
+}
+
+td
+{
+	width: 400px;
+}
+
+td.attr {
+	color: #0089cf;
+	width: 150px;
+	font-weight: bold;
+}
+
+a.details {
+	text-decoration: underline;
+	
+	font-style: italic;
+	font-weight: bold;
+	font-size: 13pt;
+	
+	color: #0089cf;
+	
+	
 }

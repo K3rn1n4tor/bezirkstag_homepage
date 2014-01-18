@@ -3,6 +3,48 @@
 
 	// links: https://sessionnet.edv-obb.de/bi/kp0040.asp?__kgrnr=1 -> Liste und Kontaktinfos zu allen Mitgliedern
 
+	function list_members()
+	{
+		$membersFileDir = 'texts/bezirksraete.txt';
+		
+		$members = array();
+		
+		$file = @fopen($membersFileDir, "r");
+		
+		if ($file)
+		{
+			while (($line = fgets($file, 4096)) !== false)
+			{
+				$line = preg_replace('/\s+/', '', $line);
+				if (strcmp($line, "=====BEGIN_MEMBER=====") == 0)
+				{
+					$attr = array();
+					while(($buffer = fgets($file, 4096)) !== false)
+					{
+						// in windows newline character is '\r\n'
+						$str = str_replace(array("\n", "\r"), "", $buffer);
+						if (strcmp($str,"=====END_MEMBER=====") == 0)
+						{
+							break;
+						}
+
+						list($info,$content) = explode("\t", $str);
+						$attr[$info] = $content;
+					}
+					
+					$members[] = $attr;
+				}
+			}
+		}
+		else
+		{
+			echo $file." not found!";
+			return array("");
+		}
+		
+		return $members;
+	}
+
 	$page = 0;
 	if (isset($_GET['page']))
 	{
@@ -48,22 +90,55 @@
 			break;
 	
 		case 1:
-			
 			?>
 			<name>Bezirksr‰te</name><br><br>
-			<img class='member_image' src='https://sessionnet.edv-obb.de/bi/im/pe7.jpg' alt='Steinberger'>
-			<name>Josef Mederer</name><br>
-			<function>Bezirkstagspr‰sident</function><br><br>
-			<info>Test1: </info>Test
-			<div id='content_clear'></div>
-			<div class='member_seperator'></div>
-			<img class='member_image' src='https://sessionnet.edv-obb.de/bi/im/pe9.jpg' alt='Steinberger'>
-			<name>Friederike Steinberger</name><br>
-			<function>Stellvertretende CSU-Bezirksvorsitzende</function><br><br>
-			<info>Test1: </info>Test
-			<div id='content_clear'></div>
-			<div class='member_seperator'></div>
-			<?php 
+			<?php			
+			$members = list_members();
+			
+			foreach($members as $member)
+			{
+				// basic information
+				$name = $member['Name:'];
+				$img = $member['Bild:'];
+				$page = $member['URL:'];
+				$func = (array_key_exists("Bezirkstagsfunktion:", $member)) ? $member['Bezirkstagsfunktion:'] : $member['Beruf:'];
+				
+				?>
+				<div id='members_left'>
+				<?php
+				
+				echo "<img class='member_image' src=$img alt=$name>";
+				?>
+				</div>
+				<div id='members_right'>
+				<?php
+				echo "<name><a href=$page>$name</a></name><br>";
+				echo "<function>$func</function><br><br>";
+				
+				// additional information
+				$stimmkreis = $member['Stimmkreis:'];
+				$mail = str_replace("@", "(at)", $member['E-Mail:']);
+				$town = $member['Ort:'];
+				$street = $member['Straﬂe:']
+				
+				?>
+				<table>
+				<?php
+					echo "<tr><td class='attr'>Straﬂe:</td><td>$street</td></tr>";
+					echo "<tr><td class='attr'>Ort:</td><td>$town</td></tr>";
+					echo "<tr><td class='attr'>Stimmkreis:</td><td>$stimmkreis</td></tr>";
+					echo "<tr><td class='attr'>E-Mail:</td><td>$mail</td></tr>";
+					
+				?>
+				</table><br>
+				<?php 
+					echo "<a class='details' href=$page title='Details zu $name'>Details</a>";
+				?>
+				</div>
+				<div id='content_clear'></div>
+				<div class='member_seperator'></div>
+				<?php 
+			}
 			break;
 			
 		case 2:

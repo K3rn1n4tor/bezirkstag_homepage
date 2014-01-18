@@ -67,8 +67,28 @@
 .member_seperator {
 	margin-top: 24px;
 	margin-bottom: 24px;
-	height: 2px;
+	
+	height: 1px;
 	width: auto;
+	
 	background: #0089ce;
-	border-bottom: 2px solid #005c8a;	
+	opacity: 0.5;
+	
+	border-bottom: 1px solid #005c8a;	
+}
+
+#members_left {
+	width: 180px;
+	height: auto;
+	float:left;
+	
+}
+
+#members_right {
+	width: auto;
+	height: auto;
+	
+	float: left;
+	position: relative;
+	
 }

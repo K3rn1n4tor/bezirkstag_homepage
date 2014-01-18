@@ -20,7 +20,7 @@
 		<div id='left_section' align='center'>
 			<div id='logo_content'>
 				<img class='csu_logo' src='images/csu_mittelfranken_logo.png' alt='CSU Logo'>
-				<img class='obb_logo' src='images/obb-wappen.png' alt='OBB Logo'>
+				<img class='obb_logo' src='images/OBBWappen.gif' alt='OBB Logo'>
 			</div>
 			<?php  include "navi.php"; ?>
 			

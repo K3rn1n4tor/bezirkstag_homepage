@@ -1,0 +1,63 @@
+=====BEGIN_MEMBER=====
+Name:	Josef Mederer
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe7.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=7
+Bezirkstagsfunktion:	Bezirkstagspräsident
+Stimmkreis:	Dachau (Direktkandidat)
+Straße:	Dr.-Jakob-Scheckh-Straße 3
+Ort:	85250 Altomünster
+E-Mail:	josef.mederer@bezirk-oberbayern.de
+Internet:	http://www.josef-mederer.de
+Geboren:	1949
+Familienstand:	verheiratet, zwei Kinder
+Religion:	röm.-kath.
+Beruf:	Bürgermeister a.D.
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Friederike Steinberger
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe9.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=9
+Bezirkstagsfunktion:	Stellvertretende CSU-Bezirksvorsitzende
+Stimmkreis:	München-Ramersdorf (Direktkandidatin)
+Straße:	Turnerstraße 25
+Ort:	81827 München
+Telefon dienstl.:	089/233-92663
+Telefon privat:	089/4391372
+Fax dienstl.:	089/233-27565
+Fax privat:	089/43987882
+E-Mail:	friederike.steinberger@bezirk-oberbayern.de
+Geboren:	1960
+Familienstand:	verheiratet, zwei Kinder
+Religion:	röm.-kath.
+Beruf:	Diplom-Verwaltungswirtin (FH), Fraktionsassistentin der CSU-Stadtratsfraktion
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Josef Bichler
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe12.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=12
+Stimmkreis:	Miesbach (Direktkandidat)
+Straße:	Bürgermeister-Erl-Straße 4
+Ort:	83666 Schaftlach
+Telefon privat:	08021 7036
+E-Mail:	jo.bichler@web.de
+Geboren:	1952
+Familienstand:	verheiratet, zwei Kinder
+Religion:	röm.-kath.
+Beruf:	Diplom-Handelslehrer/Oberstudiendirektor
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Barbara Breher
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe377.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=377
+Stimmkreis:	Pfaffenhofen a. d. Ilm (Direktkandidatin)
+Straße:	Herzog-Ernst-Straße 15
+Ort:	85276 Pfaffenhofen a.d. Ilm
+E-Mail:	barbara.breher@kolping.de
+Geboren:	1963
+Familienstand:	verheiratet
+Religion:	röm.-kath.
+Beruf:	Verbandsvorsitzende
+=====END_MEMBER=====

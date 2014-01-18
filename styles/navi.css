@@ -46,6 +46,9 @@
 }
 
 #navi .tabFocussed {
+	/* disable mouse action events */
+	pointer-events: none;
+	
 	color: #f9f548;
 }
 
@@ -57,6 +60,9 @@
 }
 
 #navi .focussed {
+	/* disable mouse action events */
+	pointer-events: none;
+	
 	margin-left: 30px;
 	
 	color: yellow;
