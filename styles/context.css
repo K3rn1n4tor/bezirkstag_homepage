@@ -92,3 +92,8 @@
 	position: relative;
 	
 }
+
+/* is-a captcha protection for contact form */
+.highlight {
+	display:none;
+}

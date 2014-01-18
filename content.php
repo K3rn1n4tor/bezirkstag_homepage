@@ -54,6 +54,7 @@
 	switch($page)
 	{
 		case 0:?>
+			<headline><center>Startseite</center></headline><br>
 			<img src="images/Josef_Loy.jpg" style="float:left; margin-right: 20px; margin-top: 12px;" alt="Josef Loy">
 			<strong><i>
 			<p>Ein herzliches Grüß Gott auf unserer Internetseite.</p>
@@ -91,7 +92,7 @@
 	
 		case 1:
 			?>
-			<name>Bezirksräte</name><br><br>
+			<headline><center>Bezirksräte</center></headline><br>
 			<?php			
 			$members = list_members();
 			
@@ -140,13 +141,64 @@
 				<?php 
 			}
 			break;
-			
-		case 2:
-			echo "Links";
-			break;
 				
+		case 2:
+			echo "<headline><center>Kontakt</center></headline><br>";
+			
+			?>
+			<center>
+			<strong><p>Nehmen Sie mit uns hier schnell und einfach Kontakt auf.</p>
+			<p>Wir freuen uns über jede Anfrage!</p></strong><br>
+			<form action='?page=3' method='post'>
+				<table class='contact'>
+					<tr>
+					<td><label for='firstname'>Vorname:</label></td>
+					<td><input type='text' id='firstname' name='firstname' size='30' maxlength='40' value=''></td>
+					</tr>
+					<tr>
+					<td><label for='lastname'>Name:</label></td>
+					<td><input type='text' id='lastname' name='lastname' size='30' maxlength='40' value=''></td>
+					</tr>
+					<tr>
+					<td><label for='address'>Anschrift:</label></td>
+					<td><input type='text' id='address' name='address' size='30' maxlength='40' value=''></td>
+					</tr>
+					<tr class='highlight'>
+					<td><label for='email'>Bitte füllen sie dieses Feld nicht aus!</label></td>
+					<td><input type='text' id='email' name='email' size='30' maxlength='40' value''</td>
+					</tr>
+					<tr>
+					<td><label for='town'>PLZ, Ort:</label></td>
+					<td><input type='text' id='town' name='town' size='30' maxlength='40' value=''></td>
+					</tr>
+					<tr>
+					<td><label for='e-mail'>E-Mail:</label></td>
+					<td><input type='text' id='e-mail' name='e-mail' size='30' maxlength='40' value=''></td>
+					</tr>
+					<tr class='highlight'>
+					<td><label for='homepage'>Bitte füllen sie dieses Feld nicht aus!</label></td>
+					<td><input type='text' id='homepage' name='homepage' size='30' maxlength='40' value''</td>
+					</tr>
+					<tr>
+					<td><label for='phone'>Telefon:</label></td>
+					<td><input type='text' id='phone' name='phone' size='30' maxlength='40' value=''></td>
+					</tr>
+					<tr>
+					<td><label for='message'>Ihre Nachricht:</label></td>
+					<td><textarea id='message' name='message' rows='10' cols='25' value=''></textarea>
+					</td>
+					</tr>
+					<tr><td>&nbsp;</td><td><input type='submit' value='Absenden'></td></tr>
+				</table>
+			</form>
+			</center>
+			
+			<?php 
+			
+			break;
+			
 		case 3:
-			echo "Kontakt";
+			echo "<headline><center>Links</center></headline><br>";
 			break;
 	}
 
