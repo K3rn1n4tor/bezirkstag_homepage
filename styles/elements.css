@@ -7,6 +7,10 @@ h1 {
 	font-style: italic;
 }
 
+#div_center {
+	text-align: center;
+}
+
 headline {
 	font-size: 20pt;
 	font-style: italic;
@@ -93,10 +97,10 @@ table.contact td input[type="text"]:focus {
 }
 
 table.contact td input[type="submit"] {
-	box-shadow: 2px 2px 4px #004c72;
+	box-shadow: inset -3px -3px 4px #004c72;
 	
 	width: 240px;
-	height: 25px;
+	height: 30px;
 	
 	background-color: #3b99c8;
 	
@@ -116,10 +120,10 @@ table.contact td input[type="submit"]:focus {
 }
 
 table.contact td input[type="submit"]:active {
-	background-color: #3b99c8;
-	color: white;
+	background-color: #f6fcff;
+	color: black;
 	
-	box-shadow: -2px -2px 4px #004c72;
+	box-shadow: inset 3px 3px 4px #004c72;
 	
 	border-width: 1px;
 }
@@ -143,6 +147,20 @@ table.contact td textarea {
 	border-color: #9ab8d3;
 	border-style: solid;
 	border-width: 1px;
+}
+
+table.contact td.missing input{
+	background-color: #ff9999;
+	border-color: #772222;
+}
+
+table.contact td.missing label{
+	color: #772222;
+}
+
+table.contact td.missing textarea{
+	background-color: #ff9999;
+	border-color: #772222;
 }
 
 table.contact td textarea:focus {
