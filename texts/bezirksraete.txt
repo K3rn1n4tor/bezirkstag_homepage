@@ -8,29 +8,28 @@ Straße:	Dr.-Jakob-Scheckh-Straße 3
 Ort:	85250 Altomünster
 E-Mail:	josef.mederer@bezirk-oberbayern.de
 Internet:	http://www.josef-mederer.de
-Geboren:	1949
-Familienstand:	verheiratet, zwei Kinder
-Religion:	röm.-kath.
-Beruf:	Bürgermeister a.D.
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
 Name:	Friederike Steinberger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe9.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=9
-Bezirkstagsfunktion:	Stellvertretende CSU-Bezirksvorsitzende
+Bezirkstagsfunktion:	Stellvertretende Bezirkstagspräsidentin
 Stimmkreis:	München-Ramersdorf (Direktkandidatin)
 Straße:	Turnerstraße 25
 Ort:	81827 München
-Telefon dienstl.:	089/233-92663
-Telefon privat:	089/4391372
-Fax dienstl.:	089/233-27565
-Fax privat:	089/43987882
 E-Mail:	friederike.steinberger@bezirk-oberbayern.de
-Geboren:	1960
-Familienstand:	verheiratet, zwei Kinder
-Religion:	röm.-kath.
-Beruf:	Diplom-Verwaltungswirtin (FH), Fraktionsassistentin der CSU-Stadtratsfraktion
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Josef Loy
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe44.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=44
+Bezirkstagsfunktion:	Fraktionsvorsitzender
+Stimmkreis:	Landsberg am Lech, FFB-West (Direktkandidat)
+Straße:	Emminger Straße 3
+Ort:	86922 Eresing
+E-Mail:	josefloy-eresing@t-online.de
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
@@ -40,12 +39,7 @@ URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=12
 Stimmkreis:	Miesbach (Direktkandidat)
 Straße:	Bürgermeister-Erl-Straße 4
 Ort:	83666 Schaftlach
-Telefon privat:	08021 7036
 E-Mail:	jo.bichler@web.de
-Geboren:	1952
-Familienstand:	verheiratet, zwei Kinder
-Religion:	röm.-kath.
-Beruf:	Diplom-Handelslehrer/Oberstudiendirektor
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
@@ -56,8 +50,255 @@ Stimmkreis:	Pfaffenhofen a. d. Ilm (Direktkandidatin)
 Straße:	Herzog-Ernst-Straße 15
 Ort:	85276 Pfaffenhofen a.d. Ilm
 E-Mail:	barbara.breher@kolping.de
-Geboren:	1963
-Familienstand:	verheiratet
-Religion:	röm.-kath.
-Beruf:	Verbandsvorsitzende
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Reinhard Eichiner
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe20.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=20
+Stimmkreis:	Eichstätt (Direktkandidat)
+Straße:	Figurstraße 27
+Ort:	85132 Rupertsbuch
+E-Mail:	reinhard.eichiner@csu-kv-eichstaett.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Sebastian Friesinger
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe23.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=23
+Stimmkreis:	Rosenheim-West (Direktkandidat)
+Straße:	Schacha 3
+Ort:	83544 Albaching
+E-Mail:	mail@sebastian-friesinger.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Annemarie Funke
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe378.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=378
+Stimmkreis:	Traunstein (Direktkandidatin)
+Straße:	Alpenweg 2
+Ort:	83346 Bergen
+E-Mail:	nicht vorhanden
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Dr. Rainer Großmann
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe27.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=27
+Stimmkreis:	München-Moosach (Direktkandidat)
+Straße:	Glockenbecherstraße 1b
+Ort:	80935 München
+E-Mail:	dr.rainer.grossmann@googlemail.com
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Birgit Hainz
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe379.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=379
+Stimmkreis:	München-Hadern (Direktkandidatin)
+Straße:	Waldeslust 5
+Ort:	81337 München
+E-Mail:	birgit@abs-hainz.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Veit Hartsperger
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe380.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=380
+Stimmkreis:	Altötting (Direktkandidat)
+Straße:	Rupertistraße 9
+Ort:	84254 Neuötting
+E-Mail:	info@veit-hartsperger.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Claudia Hausberger
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe381.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=381
+Stimmkreis:	Mühldorf a. Inn (Direktkandidatin)
+Straße:	Matthäus-Lang-Straße 3
+Ort:	84453 Mühldorf
+E-Mail:	claudi.hausberger@gmx.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Karin Hobmeier
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe32.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=32
+Stimmkreis:	München-Land-Nord (Direktkandidatin)
+Straße:	Graf-Stauffenberg-Weg 26
+Ort:	85737 Ismaning
+E-Mail:	post@karin-hobmeier.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Franz Hofstetter
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe34.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=34
+Stimmkreis:	Erding (Direktkandidat)
+Straße:	Aham 8
+Ort:	84416 Taufkirchen (Vils)
+E-Mail:	hofstetter@taufkirchen.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Patricia Klein
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe382.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=382
+Stimmkreis:	Ingolstadt (Direktkandidatin)
+Straße:	Unterer Graben 77
+Ort:	85049 Ingolstadt
+E-Mail:	info@patriciaklein.in
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Robert Knöferl
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe383.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=383
+Stimmkreis:	Neuburg-Schrobenhausen (Direktkandidat)
+Straße:	Hörzhausenerstraße 11
+Ort:	86565 Gachenbach
+E-Mail:	knoeferl@neusob.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Barbara Kuhn
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe41.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=41
+Bezirkstagsfunktion:	Geschäftsführerin
+Stimmkreis:	München-Pasing (Direktkandidatin)
+Straße:	Mettnauer Straße 2
+Ort:	81249 München
+E-Mail:	kuhn-barbara@t-online.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Alexandra Langer
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe384.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=384
+Stimmkreis:	Weilheim-Schongau (Direktkandidatin)
+Straße:	Trogerstraße 20
+Ort:	82362 Weilheim
+E-Mail:	langer-alexandra@gmx.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Ingeborg Linder
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe43.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=43
+Stimmkreis:	München-Schwabing (Direktkandidatin)
+Straße:	Kaulbachstraße 77
+Ort:	80802 München
+E-Mail:	inge@linder-muc.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Susanne Linhart
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe376.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=376
+Stimmkreis:	Ebersberg
+Straße:	Rotter Straße 46
+Ort:	85567 Grafing b. München
+E-Mail:	linhart.susanne@googlemail.com
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Beate Meyer
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe385.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=385
+Stimmkreis:	N/A
+Straße:	Bezirksgeschäftstelle der CSU:Adamstraße 2
+Ort:	80636 München
+E-Mail:	meyers-munich@freenet.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Gabriele Off-Nesselhauf
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe386.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=386
+Stimmkreis:	Fürstenfeldbruck-Ost
+Straße:	Dorfstraße 63
+Ort:	82110 Germering
+E-Mail:	offnesselhauf@aol.com
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Simon Schindlmayr
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe375.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=375
+Stimmkreis:	N/A
+Straße:	Frühlingsstraße 12
+Ort:	85386 Eching
+E-Mail:	simon@schindlmayr.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Harald Schwab
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe59.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=59
+Stimmkreis:	Starnberg (Direktkandidat)
+Straße:	Pollinger Straße 14
+Ort:	82205 Gilching
+E-Mail:	harry.schwab@t-online.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Thomas Schwarzenberger
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe387.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=387
+Stimmkreis:	Bad-Tölz-Wolfratshausen, Garmisch-Partenkirchen (Direktkandidat)
+Straße:	Krottenkopfstraße 18
+Ort:	82494 Krün
+E-Mail:	nicht vorhanden
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Anton Spitlbauer
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe61.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=61
+Stimmkreis:	München-Bogenhausen (Direktkandidat)
+Straße:	Hochfellnstraße 6
+Ort:	81671 München
+E-Mail:	bezirksrat.anton.spitlbauer@t-online.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Ilse Weiß
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe69.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=69
+Stimmkreis:	München-Land-Süd (Direktkandidatin)
+Straße:	Kramerstraße 6
+Ort:	82061 Neuried
+E-Mail:	mail@ilse-weiss.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Georg Wetzelsperger
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe70.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=70
+Stimmkreis:	Berchtesgadener Land (Direktkandidat)
+Straße:	Stegreuth 4
+Ort:	83317 Teisendorf
+E-Mail:	bezirksrat@wetzelsperger.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Sabine Wohlrab
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe374.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=374
+Stimmkreis:	München-Milbertshofen (Direktkandidatin)
+Straße:	Nymphenburger Straße 209
+Ort:	80639 München
+E-Mail:	sabine.schuster.csu@gmx.de
+=====END_MEMBER=====
+
+=====BEGIN_MEMBER=====
+Name:	Günther Wunsam
+Bild:	https://sessionnet.edv-obb.de/bi/im/pe388.jpg
+URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=388
+Stimmkreis:	N/A
+Straße:	Kastenauer Straße 24
+Ort:	83022 Rosenheim
+E-Mail:	g.wunsam@cablenet.de
 =====END_MEMBER=====

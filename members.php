@@ -8,7 +8,7 @@
 		$name = $member['Name:'];
 		$img = $member['Bild:'];
 		$page = $member['URL:'];
-		$func = (array_key_exists("Bezirkstagsfunktion:", $member)) ? $member['Bezirkstagsfunktion:'] : $member['Beruf:'];
+		$func = (array_key_exists("Bezirkstagsfunktion:", $member)) ? $member['Bezirkstagsfunktion:'] : "";
 
 		?>
 		<div id='members_left'>
@@ -27,7 +27,8 @@
 		
 		// additional information
 		$stimmkreis = $member['Stimmkreis:'];
-		$mail = str_replace("@", "(at)", $member['E-Mail:']);
+		$mail = $member['E-Mail:'];//str_replace("@", "(at)", $member['E-Mail:']);
+		$mail = "<a class='member_mail' href='mailto:$mail'>$mail</a>";
 		$town = $member['Ort:'];
 		$street = $member['Straﬂe:'];
 		

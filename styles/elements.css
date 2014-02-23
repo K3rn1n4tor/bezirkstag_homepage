@@ -16,7 +16,20 @@ headline {
 	font-style: italic;
 	font-weight: bold;
 	
+	text-decoration: underline;
+	
 	color: #0089cf;
+}
+
+headline_navi {
+	font-size: 18pt;
+	font-style: normal;
+	font-weight: bold;
+	
+	text-decoration: underline;
+	text-align: left;
+	
+	color: #0077af;
 }
 
 name {
@@ -54,7 +67,7 @@ info {
 
 #members_right td
 {
-	width: 400px;
+	width: 370px;
 }
 
 #members_right td.attr {
@@ -71,6 +84,12 @@ info {
 	font-size: 13pt;
 	
 	color: #0089cf;
+}
+
+.member_mail {
+	font-weight: normal;
+	text-decoration: underline;
+	color: black;
 }
 
 table.contact {
@@ -97,7 +116,9 @@ table.contact td input[type="text"]:focus {
 }
 
 table.contact td input[type="submit"] {
-	box-shadow: inset -3px -3px 4px #004c72;
+	/*box-shadow: inset -3px -3px 4px #004c72;*/
+	
+	text-shadow: 1px 1px 2px #194260;
 	
 	width: 240px;
 	height: 30px;
@@ -115,21 +136,24 @@ table.contact td input[type="submit"] {
 }
 
 table.contact td input[type="submit"]:focus {
-	background-color: #f6fcff;
-	color: black;	
+	background-color: #3b99c8;
+	
+	color: #f8eb1b;
+	text-style: bold;
 }
 
 table.contact td input[type="submit"]:active {
-	background-color: #f6fcff;
+	background-color: #f8eb1b;
 	color: black;
 	
-	box-shadow: inset 3px 3px 4px #004c72;
+	text-shadow: none;
+	/*box-shadow: inset 3px 3px 4px #004c72;*/
 	
 	border-width: 1px;
 }
 
 table.contact td label {
-	font-style: italic;
+	font-style: normal;
 	font-weight: bold;
 	
 	display: block;

@@ -1,9 +1,7 @@
 <div id='content'>
+
 <?php
-
 	// links: https://sessionnet.edv-obb.de/bi/kp0040.asp?__kgrnr=1 -> Liste und Kontaktinfos zu allen Mitgliedern
-
-	
 
 	$page = 0;
 	if (isset($_GET['page']))
@@ -14,9 +12,10 @@
 	switch($page)
 	{
 		case 0:?>
+		
 			<div id='div_center'><headline>Startseite</headline></div><br>
-			<img src="images/Josef_Loy.jpg" alt="Josef Loy" style="float:left; margin-right: 20px; margin-top: 12px;">
-			<strong>
+			<img class="homepage_image" src="images/Josef_Loy.jpg" alt="Josef Loy">
+			
 			<p>Ein herzliches Grüß Gott auf unserer Internetseite.</p>
 			<br>
 			<p>Die CSU-Fraktion im Bezirkstag von Oberbayern ist mit 30 Mitgliedern die stärkste Fraktion.</p>
@@ -46,7 +45,7 @@
 			<br>
 			<p>Fraktionsvorsitzender der CSU im Bezirkstag von Oberbayern.</p>
 			
-			</strong>
+			
 			<?php
 			break;
 	
@@ -65,81 +64,18 @@
 			break;
 			
 		case 3:
-			echo "<div id='div_center'><headline>Links</headline></div><br>";
+
+			break;
 			
-			?>
-			<strong>
-			<ul>
-			<li style='margin-left: 20px;' type="square">CSU – Christlich-Soziale Union<br><a class='link_url' href='http://www.csu.de'>www.csu.de</a></li><br>
-			<li style='margin-left: 20px;' type="square">Die Fraktion der CSU im Bayerischen Landtag<br><a class='link_url' href='http://www.csu-landtag.de'>www.csu-landtag.de</a></li><br>
-			<li style='margin-left: 20px;' type="square">Die CSU Abgeordneten im Deutschen Bundestag<br><a class='link_url' href='http://www.csu-landesgruppe.de'>www.csu-landesgruppe.de</a></li><br>
-			<li style='margin-left: 20px;' type="square">Die CSU Abgeordneten im Europäischen Parlament<br><a class='link_url' href='http://www.csu-europagruppe.de'>www.csu-europagruppe.de</a></li><br>
-			</ul>
-			</strong>
+		case 4:
 			
-			<?php
+			include "impressum.php";
+			
 			break;
 	}
 
 	
 	
-	/*$textdir = "texts/";
-	$imgdir = "images/";
 	
-	// code to read text files in a given directory
-	if (is_dir($textdir))
-	{
-		if ($dh = opendir($textdir))
-		{
-			while (($file = readdir($dh)) != false)
-			{
-				if ($file == "." || $file == "..")
-				{
-					continue;
-				}
-				
-				$fh = fopen($textdir.$file, "r");
-				
-				$img = "";
-				$name = "";
-				$descr = "";
-				
-				while (($line = fgets($fh, 4096)) != false) {
-					$split = explode(":",$line);
-					if ($split[0] == "img")
-					{
-						$img = $imgdir.$split[1];
-						//echo "img: ".$img;
-					}
-					elseif ($split[0] == "name")
-					{
-						$name = $split[1];
-						//echo "name: ".$name;
-					}
-					else
-					{
-						$descr .= $line;
-						//echo "img: ".$img;
-					}
-				}
-				
-				?>
-				<div id='content_img'>
-				<?php echo "<img src='$img'></img>"?>
-				</div>
-				<div id='content_txt'>
-				<?php 
-				echo "<name>$name</name><br><br>".$descr;
-				?>
-				</div>
-				<div id='content_clear'>
-				</div>
-				<br><br>
-				<?php 
-				
-				fclose($fh);
-			}
-		}
-	}*/
 ?>
 </div>

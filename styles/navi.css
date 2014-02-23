@@ -12,18 +12,16 @@
 	float:left;
 	
 	width: 200px;
-	height: 52px;
+	height: 42px;
 	
-	line-height: 52px;
+	line-height: 42px;
 	vertical-align: middle;
 	
 	z-index: 0;
 }
 
 #navi tab:hover {
-	/*margin-left: 30px;*/
-	
-	background-image: url(../images/ButtonHover.gif);
+	background-image: url(../images/ButtonHover2.gif);
 }
 
 #navi tab a {
@@ -32,9 +30,9 @@
 	
 	display: block;
 	
-	font-style: italic;
-	font-weight: bold;
-	font-size: 16pt;
+	font-style: none;
+	font-weight: normal;
+	font-size: 14pt;
 }
 
 #navi tab a:hover {	
@@ -49,26 +47,26 @@
 	/* disable mouse action events */
 	pointer-events: none;
 	
-	color: #f9f548;
+	color: #f8eb1b;/*#f9f548;*/
 }
 
 #navi .default {
-	background-image: url(../images/ButtonDefault.gif);
+	background-image: url(../images/ButtonDefault2.gif);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100%;
+	background-size: auto;
 }
 
 #navi .focussed {
 	/* disable mouse action events */
 	pointer-events: none;
 	
-	margin-left: 30px;
+	margin-left: 15px;
 	
 	color: yellow;
 	
-	background-image: url(../images/ButtonDefault.gif);
+	background-image: url(../images/ButtonFocus2.gif);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100%;
+	background-size: auto;
 }

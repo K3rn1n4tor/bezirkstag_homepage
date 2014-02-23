@@ -19,15 +19,15 @@
 	text-align: left;
 	
 	padding-top: 40px;
-	padding-left: 20px;
-	padding-right: 20px;
-	padding-bottom: 40px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 50px;
 	
 	width: 824px;
 	height: auto;
 	min-height: 600px;
 	
-	box-shadow: 2px 2px 3px #004c72;
+	/*box-shadow: 2px 2px 3px #004c72;*/
 	
 	z-index: 2;
 	
@@ -78,6 +78,18 @@
 	float: left;
 }
 
+.homepage_image {
+	float:left;
+	
+	margin-right: 20px; 
+	margin-top: 14px; 
+	margin-bottom: 20px; 
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: #005c8a;
+}
+
 .member_seperator {
 	margin-top: 24px;
 	margin-bottom: 24px;
@@ -114,6 +126,28 @@
 
 .link_url {
 	text-decoration: none;
-	color: #0089cf;
+	color: #0077af;
 	font-weight: bold;
+	font-size: 10pt;
+}
+
+.footer {
+	text-align: right;
+	font-weight: bold;
+}
+
+.right_bound {
+	margin-top: 10px;
+	text-align: right;
+}
+
+.left_bound {
+	text-aling: left;
+}
+
+.link_url_un {
+	text-decoration: underline;
+	color: #0077af;
+	font-weight: bold;
+	margin-right: 40px;
 }

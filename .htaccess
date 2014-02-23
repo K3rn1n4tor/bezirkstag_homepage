@@ -1,0 +1,7 @@
+RewriteEngine on
+RewriteRule index.html$ index.php
+RewriteRule ^Startseite$ index.php
+RewriteRule ^Startseite$ index.php?page=0
+RewriteRule ^Bezirksräte$ index.php?page=1
+RewriteRule ^Kontakt$ index.php?page=2
+RewriteRule ^Impressum$ index.php?page=4
