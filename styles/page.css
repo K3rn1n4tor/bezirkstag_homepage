@@ -6,16 +6,25 @@
 }
 
 
-body {
+html, body {
 	/*background-color: #edf6ff;*/
-	background:-moz-linear-gradient(top,#ecf5fa,#c3cfdb); /* Firefox */
-	background:-webkit-gradient(linear,left top,left bottom,from(#ecf5fa),to(#c3cfdb)); /* Chrome, Safari */
-	background:-ms-linear-gradient(top,#ecf5fa,#c3cfdb); /* Internet Explorer 10+ */
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ecf5fa',endColorstr='#c3cfdb'); /* Internet Explorer < 10*/
+	
+
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
 	width: auto;
 	font-size: 11pt;
-	height: 100vh; /* test-height */
+	
+	min-height: 100%; 
+	height: auto !important;
+	
+	margin:0; 
+	padding:0;
+	
+    background: url(../images/background.gif) fixed;
+    background-size: cover;
+	background-repeat:no-repeat !important;
+	
+	
 }
 
 /* describes width of the whole wep-page content*/

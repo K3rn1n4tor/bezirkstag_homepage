@@ -2,10 +2,10 @@
 Name:	Josef Mederer
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe7.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=7
-Bezirkstagsfunktion:	Bezirkstagspr‰sident
+Bezirkstagsfunktion:	Bezirkstagspr√§sident
 Stimmkreis:	Dachau (Direktkandidat)
-Straﬂe:	Dr.-Jakob-Scheckh-Straﬂe 3
-Ort:	85250 Altom¸nster
+Stra√üe:	Dr.-Jakob-Scheckh-Stra√üe 3
+Ort:	85250 Altom√ºnster
 E-Mail:	josef.mederer@bezirk-oberbayern.de
 Internet:	http://www.josef-mederer.de
 =====END_MEMBER=====
@@ -14,10 +14,10 @@ Internet:	http://www.josef-mederer.de
 Name:	Friederike Steinberger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe9.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=9
-Bezirkstagsfunktion:	Stellvertretende Bezirkstagspr‰sidentin
-Stimmkreis:	M¸nchen-Ramersdorf (Direktkandidatin)
-Straﬂe:	Turnerstraﬂe 25
-Ort:	81827 M¸nchen
+Bezirkstagsfunktion:	Stellvertretende Bezirkstagspr√§sidentin
+Stimmkreis:	M√ºnchen-Ramersdorf (Direktkandidatin)
+Stra√üe:	Turnerstra√üe 25
+Ort:	81827 M√ºnchen
 E-Mail:	friederike.steinberger@bezirk-oberbayern.de
 =====END_MEMBER=====
 
@@ -27,7 +27,7 @@ Bild:	https://sessionnet.edv-obb.de/bi/im/pe44.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=44
 Bezirkstagsfunktion:	Fraktionsvorsitzender
 Stimmkreis:	Landsberg am Lech, FFB-West (Direktkandidat)
-Straﬂe:	Emminger Straﬂe 3
+Stra√üe:	Emminger Stra√üe 3
 Ort:	86922 Eresing
 E-Mail:	josefloy-eresing@t-online.de
 =====END_MEMBER=====
@@ -37,7 +37,7 @@ Name:	Josef Bichler
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe12.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=12
 Stimmkreis:	Miesbach (Direktkandidat)
-Straﬂe:	B¸rgermeister-Erl-Straﬂe 4
+Stra√üe:	B√ºrgermeister-Erl-Stra√üe 4
 Ort:	83666 Schaftlach
 E-Mail:	jo.bichler@web.de
 =====END_MEMBER=====
@@ -47,7 +47,7 @@ Name:	Barbara Breher
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe377.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=377
 Stimmkreis:	Pfaffenhofen a. d. Ilm (Direktkandidatin)
-Straﬂe:	Herzog-Ernst-Straﬂe 15
+Stra√üe:	Herzog-Ernst-Stra√üe 15
 Ort:	85276 Pfaffenhofen a.d. Ilm
 E-Mail:	barbara.breher@kolping.de
 =====END_MEMBER=====
@@ -56,8 +56,8 @@ E-Mail:	barbara.breher@kolping.de
 Name:	Reinhard Eichiner
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe20.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=20
-Stimmkreis:	Eichst‰tt (Direktkandidat)
-Straﬂe:	Figurstraﬂe 27
+Stimmkreis:	Eichst√§tt (Direktkandidat)
+Stra√üe:	Figurstra√üe 27
 Ort:	85132 Rupertsbuch
 E-Mail:	reinhard.eichiner@csu-kv-eichstaett.de
 =====END_MEMBER=====
@@ -67,7 +67,7 @@ Name:	Sebastian Friesinger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe23.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=23
 Stimmkreis:	Rosenheim-West (Direktkandidat)
-Straﬂe:	Schacha 3
+Stra√üe:	Schacha 3
 Ort:	83544 Albaching
 E-Mail:	mail@sebastian-friesinger.de
 =====END_MEMBER=====
@@ -77,18 +77,18 @@ Name:	Annemarie Funke
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe378.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=378
 Stimmkreis:	Traunstein (Direktkandidatin)
-Straﬂe:	Alpenweg 2
+Stra√üe:	Alpenweg 2
 Ort:	83346 Bergen
 E-Mail:	nicht vorhanden
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
-Name:	Dr. Rainer Groﬂmann
+Name:	Dr. Rainer Gro√ümann
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe27.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=27
-Stimmkreis:	M¸nchen-Moosach (Direktkandidat)
-Straﬂe:	Glockenbecherstraﬂe 1b
-Ort:	80935 M¸nchen
+Stimmkreis:	M√ºnchen-Moosach (Direktkandidat)
+Stra√üe:	Glockenbecherstra√üe 1b
+Ort:	80935 M√ºnchen
 E-Mail:	dr.rainer.grossmann@googlemail.com
 =====END_MEMBER=====
 
@@ -96,9 +96,9 @@ E-Mail:	dr.rainer.grossmann@googlemail.com
 Name:	Birgit Hainz
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe379.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=379
-Stimmkreis:	M¸nchen-Hadern (Direktkandidatin)
-Straﬂe:	Waldeslust 5
-Ort:	81337 M¸nchen
+Stimmkreis:	M√ºnchen-Hadern (Direktkandidatin)
+Stra√üe:	Waldeslust 5
+Ort:	81337 M√ºnchen
 E-Mail:	birgit@abs-hainz.de
 =====END_MEMBER=====
 
@@ -106,9 +106,9 @@ E-Mail:	birgit@abs-hainz.de
 Name:	Veit Hartsperger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe380.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=380
-Stimmkreis:	Altˆtting (Direktkandidat)
-Straﬂe:	Rupertistraﬂe 9
-Ort:	84254 Neuˆtting
+Stimmkreis:	Alt√∂tting (Direktkandidat)
+Stra√üe:	Rupertistra√üe 9
+Ort:	84254 Neu√∂tting
 E-Mail:	info@veit-hartsperger.de
 =====END_MEMBER=====
 
@@ -116,9 +116,9 @@ E-Mail:	info@veit-hartsperger.de
 Name:	Claudia Hausberger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe381.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=381
-Stimmkreis:	M¸hldorf a. Inn (Direktkandidatin)
-Straﬂe:	Matth‰us-Lang-Straﬂe 3
-Ort:	84453 M¸hldorf
+Stimmkreis:	M√ºhldorf a. Inn (Direktkandidatin)
+Stra√üe:	Matth√§us-Lang-Stra√üe 3
+Ort:	84453 M√ºhldorf
 E-Mail:	claudi.hausberger@gmx.de
 =====END_MEMBER=====
 
@@ -126,8 +126,8 @@ E-Mail:	claudi.hausberger@gmx.de
 Name:	Karin Hobmeier
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe32.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=32
-Stimmkreis:	M¸nchen-Land-Nord (Direktkandidatin)
-Straﬂe:	Graf-Stauffenberg-Weg 26
+Stimmkreis:	M√ºnchen-Land-Nord (Direktkandidatin)
+Stra√üe:	Graf-Stauffenberg-Weg 26
 Ort:	85737 Ismaning
 E-Mail:	post@karin-hobmeier.de
 =====END_MEMBER=====
@@ -137,7 +137,7 @@ Name:	Franz Hofstetter
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe34.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=34
 Stimmkreis:	Erding (Direktkandidat)
-Straﬂe:	Aham 8
+Stra√üe:	Aham 8
 Ort:	84416 Taufkirchen (Vils)
 E-Mail:	hofstetter@taufkirchen.de
 =====END_MEMBER=====
@@ -147,17 +147,17 @@ Name:	Patricia Klein
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe382.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=382
 Stimmkreis:	Ingolstadt (Direktkandidatin)
-Straﬂe:	Unterer Graben 77
+Stra√üe:	Unterer Graben 77
 Ort:	85049 Ingolstadt
 E-Mail:	info@patriciaklein.in
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
-Name:	Robert Knˆferl
+Name:	Robert Kn√∂ferl
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe383.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=383
 Stimmkreis:	Neuburg-Schrobenhausen (Direktkandidat)
-Straﬂe:	Hˆrzhausenerstraﬂe 11
+Stra√üe:	H√∂rzhausenerstra√üe 11
 Ort:	86565 Gachenbach
 E-Mail:	knoeferl@neusob.de
 =====END_MEMBER=====
@@ -166,10 +166,10 @@ E-Mail:	knoeferl@neusob.de
 Name:	Barbara Kuhn
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe41.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=41
-Bezirkstagsfunktion:	Gesch‰ftsf¸hrerin
-Stimmkreis:	M¸nchen-Pasing (Direktkandidatin)
-Straﬂe:	Mettnauer Straﬂe 2
-Ort:	81249 M¸nchen
+Bezirkstagsfunktion:	Gesch√§ftsf√ºhrerin
+Stimmkreis:	M√ºnchen-Pasing (Direktkandidatin)
+Stra√üe:	Mettnauer Stra√üe 2
+Ort:	81249 M√ºnchen
 E-Mail:	kuhn-barbara@t-online.de
 =====END_MEMBER=====
 
@@ -178,7 +178,7 @@ Name:	Alexandra Langer
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe384.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=384
 Stimmkreis:	Weilheim-Schongau (Direktkandidatin)
-Straﬂe:	Trogerstraﬂe 20
+Stra√üe:	Trogerstra√üe 20
 Ort:	82362 Weilheim
 E-Mail:	langer-alexandra@gmx.de
 =====END_MEMBER=====
@@ -187,9 +187,9 @@ E-Mail:	langer-alexandra@gmx.de
 Name:	Ingeborg Linder
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe43.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=43
-Stimmkreis:	M¸nchen-Schwabing (Direktkandidatin)
-Straﬂe:	Kaulbachstraﬂe 77
-Ort:	80802 M¸nchen
+Stimmkreis:	M√ºnchen-Schwabing (Direktkandidatin)
+Stra√üe:	Kaulbachstra√üe 77
+Ort:	80802 M√ºnchen
 E-Mail:	inge@linder-muc.de
 =====END_MEMBER=====
 
@@ -198,8 +198,8 @@ Name:	Susanne Linhart
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe376.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=376
 Stimmkreis:	Ebersberg
-Straﬂe:	Rotter Straﬂe 46
-Ort:	85567 Grafing b. M¸nchen
+Stra√üe:	Rotter Stra√üe 46
+Ort:	85567 Grafing b. M√ºnchen
 E-Mail:	linhart.susanne@googlemail.com
 =====END_MEMBER=====
 
@@ -207,9 +207,9 @@ E-Mail:	linhart.susanne@googlemail.com
 Name:	Beate Meyer
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe385.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=385
-Stimmkreis:	N/A
-Straﬂe:	Bezirksgesch‰ftstelle der CSU:Adamstraﬂe 2
-Ort:	80636 M¸nchen
+Stimmkreis:	M√ºnchen-Giesing
+Stra√üe:	Bezirksgesch√§ftstelle der CSU: Adamstra√üe 2
+Ort:	80636 M√ºnchen
 E-Mail:	meyers-munich@freenet.de
 =====END_MEMBER=====
 
@@ -217,8 +217,8 @@ E-Mail:	meyers-munich@freenet.de
 Name:	Gabriele Off-Nesselhauf
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe386.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=386
-Stimmkreis:	F¸rstenfeldbruck-Ost
-Straﬂe:	Dorfstraﬂe 63
+Stimmkreis:	F√ºrstenfeldbruck-Ost
+Stra√üe:	Dorfstra√üe 63
 Ort:	82110 Germering
 E-Mail:	offnesselhauf@aol.com
 =====END_MEMBER=====
@@ -228,7 +228,7 @@ Name:	Simon Schindlmayr
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe375.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=375
 Stimmkreis:	N/A
-Straﬂe:	Fr¸hlingsstraﬂe 12
+Stra√üe:	Fr√ºhlingsstra√üe 12
 Ort:	85386 Eching
 E-Mail:	simon@schindlmayr.de
 =====END_MEMBER=====
@@ -238,7 +238,7 @@ Name:	Harald Schwab
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe59.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=59
 Stimmkreis:	Starnberg (Direktkandidat)
-Straﬂe:	Pollinger Straﬂe 14
+Stra√üe:	Pollinger Stra√üe 14
 Ort:	82205 Gilching
 E-Mail:	harry.schwab@t-online.de
 =====END_MEMBER=====
@@ -247,9 +247,9 @@ E-Mail:	harry.schwab@t-online.de
 Name:	Thomas Schwarzenberger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe387.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=387
-Stimmkreis:	Bad-Tˆlz-Wolfratshausen, Garmisch-Partenkirchen (Direktkandidat)
-Straﬂe:	Krottenkopfstraﬂe 18
-Ort:	82494 Kr¸n
+Stimmkreis:	Bad-T√∂lz-Wolfratshausen, Garmisch-Partenkirchen (Direktkandidat)
+Stra√üe:	Krottenkopfstra√üe 18
+Ort:	82494 Kr√ºn
 E-Mail:	nicht vorhanden
 =====END_MEMBER=====
 
@@ -257,18 +257,18 @@ E-Mail:	nicht vorhanden
 Name:	Anton Spitlbauer
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe61.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=61
-Stimmkreis:	M¸nchen-Bogenhausen (Direktkandidat)
-Straﬂe:	Hochfellnstraﬂe 6
-Ort:	81671 M¸nchen
+Stimmkreis:	M√ºnchen-Bogenhausen (Direktkandidat)
+Stra√üe:	Hochfellnstra√üe 6
+Ort:	81671 M√ºnchen
 E-Mail:	bezirksrat.anton.spitlbauer@t-online.de
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
-Name:	Ilse Weiﬂ
+Name:	Ilse Wei√ü
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe69.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=69
-Stimmkreis:	M¸nchen-Land-S¸d (Direktkandidatin)
-Straﬂe:	Kramerstraﬂe 6
+Stimmkreis:	M√ºnchen-Land-S√ºd (Direktkandidatin)
+Stra√üe:	KramerStra√üe 6
 Ort:	82061 Neuried
 E-Mail:	mail@ilse-weiss.de
 =====END_MEMBER=====
@@ -278,7 +278,7 @@ Name:	Georg Wetzelsperger
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe70.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=70
 Stimmkreis:	Berchtesgadener Land (Direktkandidat)
-Straﬂe:	Stegreuth 4
+Stra√üe:	Stegreuth 4
 Ort:	83317 Teisendorf
 E-Mail:	bezirksrat@wetzelsperger.de
 =====END_MEMBER=====
@@ -287,18 +287,18 @@ E-Mail:	bezirksrat@wetzelsperger.de
 Name:	Sabine Wohlrab
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe374.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=374
-Stimmkreis:	M¸nchen-Milbertshofen (Direktkandidatin)
-Straﬂe:	Nymphenburger Straﬂe 209
-Ort:	80639 M¸nchen
+Stimmkreis:	M√ºnchen-Milbertshofen (Direktkandidatin)
+Stra√üe:	Nymphenburger Stra√üe 209
+Ort:	80639 M√ºnchen
 E-Mail:	sabine.schuster.csu@gmx.de
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
-Name:	G¸nther Wunsam
+Name:	G√ºnther Wunsam
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe388.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=388
 Stimmkreis:	N/A
-Straﬂe:	Kastenauer Straﬂe 24
+Stra√üe:	Kastenauer Stra√üe 24
 Ort:	83022 Rosenheim
 E-Mail:	g.wunsam@cablenet.de
 =====END_MEMBER=====

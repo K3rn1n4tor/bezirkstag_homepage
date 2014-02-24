@@ -47,7 +47,7 @@
 			"message" => "Ihre Nachricht"
 		);
 	
-	$fakeLabel = "Bitte füllen sie dieses Feld nicht aus!";
+	$fakeLabel = "Bitte fï¿½llen sie dieses Feld nicht aus!";
 
 	(!isset($_POST["submit"])) ? displayContactForm() : checkContactItems();
 
@@ -78,7 +78,7 @@
 			if (empty($value))
 			{
 				displayContactForm();
-				echo "<strong><p>Sie haben vergessen, alle Felder auszufüllen.<br> Bitte füllen Sie alle rot markierten Felder aus!</p></strong>";
+				echo "<strong><p>Sie haben vergessen, alle Felder auszufÃ¼llen.<br> Bitte fÃ¼llen Sie alle rot markierten Felder aus!</p></strong>";
 				return;
 			}
 			
@@ -95,8 +95,8 @@
 		
 		?>
 			<strong><p>Nehmen Sie mit uns hier schnell und einfach Kontakt auf.</p>
-			<p>Wir freuen uns über jede Anfrage!</p></strong><br>
-			<form action='?page=2' method='post'>
+			<p>Wir freuen uns Ã¼ber jede Anfrage!</p></strong><br>
+			<form action='Kontakt' method='post' accept-charset="UTF-8">
 				<table class='contact'>
 		<?php
 		
@@ -157,28 +157,34 @@
 						<li>E-Mail: $mail</li>
 						</ul>";
 
-		$mailSubject = "[Bezirkstagsfraktion.de] Neue Anfrage von $requester";
+		$mailSubject = "[csu-bezirkstag-obb.de] Neue Anfrage von $requester";
 		
 		// create new mail service
 		$mailer = new PHPMailer();
 		// set mail service settings
-		
+		//$mailer->IsSMTP();
+		//$mailer->Host = "mrvnet.kundenserver.de";
 		// smtp settings
-		$mailer->IsSMTP();
-		$mailer->SMTPDebug = 1;
+		//$mailer->IsSMTP();
+		//$mailer->SMTPDebug = 1;
 		// sender
-		$mailer->From = "michi.kern@kabelmail.de";
-		$mailer->FromName = "Bezirkstagsfraktion Bayern";
+		$mailer->FromName = "CSU Bezirkstag Oberbayern";
+		//$mailer->From = "michi.kern@kabelmail.de";
+		//$mailer->From = "noreply@csu-bezirkstag-obb.de";
+		//$mailer->FromName = "CSU Bezirkstagsfraktion Oberbayern";
 		// smtp security settings SMTP with authentication
-		$mailer->SMTPAuth = true;
-		$mailer->Host = "smtp.kabelmail.de";
-		$mailer->Port = 25;
+		$mailer->IsSendmail();
+		//$mailer->SMTPAuth = true;
+		//$mailer->Host = "smtp.kabelmail.de";
+		//$mailer->Port = 25;
 		// authentication data
-		$mailer->Username = "michi.kern@kabelmail.de";
-		$mailer->Password = "M12345678";
+		//$mailer->Username = "michi.kern@kabelmail.de";
+		//$mailer->Password = "M12345678";
 		// receiver
-		$mailer->AddAddress("kernm@in.tum.de");
+		//$mailer->AddAddress("kernm@in.tum.de");
+		$mailer->AddAddress("csubezirkstagsfraktion@t-online.de");
 		// mail content
+		$mailer->CharSet = 'utf-8';
 		$mailer->Subject = $mailSubject;
 		$mailer->Body = $mailMessage;
 		$mailer->IsHTML(true);
@@ -186,7 +192,7 @@
 		if ($mailer->Send())
 			echo "<strong><p>Ihre Anfrage wurde erfolgreich gesendet. Vielen Dank.</p></strong>";
 		else
-			echo $mailer->ErrorInfo."<br><strong><p>Leider ist ein unerwarteter Fehler beim Senden der Anfrage eingetreten!<br>Bitte probieren Sie es später nochmal. Wir bitten um Ihr Verständnis.</p></strong>";
+			echo $mailer->ErrorInfo."<br><strong><p>Leider ist ein unerwarteter Fehler beim Senden der Anfrage eingetreten!<br>Bitte probieren Sie es spï¿½ter nochmal. Wir bitten um Ihr Verstï¿½ndnis.</p></strong>";
 		
 	}
 ?>

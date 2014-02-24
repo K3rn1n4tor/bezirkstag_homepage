@@ -126,10 +126,11 @@
 
 .link_url {
 	text-decoration: none;
-	color: #0077af;
+	color: #00558f;
 	font-weight: bold;
 	font-size: 10pt;
 }
+
 
 .footer {
 	text-align: right;
@@ -138,16 +139,20 @@
 
 .right_bound {
 	margin-top: 10px;
-	text-align: right;
+	float:none;
+}
+
+.float_right {
+	float: right;
 }
 
 .left_bound {
-	text-aling: left;
+	text-align: left;
 }
 
 .link_url_un {
 	text-decoration: underline;
-	color: #0077af;
+	color: #00558f;
 	font-weight: bold;
 	margin-right: 40px;
 }

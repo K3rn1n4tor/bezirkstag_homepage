@@ -30,10 +30,10 @@
 		$mail = $member['E-Mail:'];//str_replace("@", "(at)", $member['E-Mail:']);
 		$mail = "<a class='member_mail' href='mailto:$mail'>$mail</a>";
 		$town = $member['Ort:'];
-		$street = $member['Straﬂe:'];
+		$street = $member['Stra√üe:'];
 		
 		echo "<table>";
-			echo "<tr><td class='attr'>Straﬂe:</td><td>$street</td></tr>";
+			echo "<tr><td class='attr'>Stra√üe:</td><td>$street</td></tr>";
 			echo "<tr><td class='attr'>Ort:</td><td>$town</td></tr>";
 			echo "<tr><td class='attr'>Stimmkreis:</td><td>$stimmkreis</td></tr>";
 			echo "<tr><td class='attr'>E-Mail:</td><td>$mail</td></tr>";

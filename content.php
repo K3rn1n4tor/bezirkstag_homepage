@@ -16,30 +16,30 @@
 			<div id='div_center'><headline>Startseite</headline></div><br>
 			<img class="homepage_image" src="images/Josef_Loy.jpg" alt="Josef Loy">
 			
-			<p>Ein herzliches Grüß Gott auf unserer Internetseite.</p>
+			<p>Ein herzliches GrÃ¼ÃŸ Gott auf unserer Internetseite.</p>
 			<br>
-			<p>Die CSU-Fraktion im Bezirkstag von Oberbayern ist mit 30 Mitgliedern die stärkste Fraktion.</p>
+			<p>Die CSU-Fraktion im Bezirkstag von Oberbayern ist mit 30 Mitgliedern die stÃ¤rkste Fraktion.</p>
 			<br>
-			<p>Mit  Josef Mederer als unserem Bezirkstagspräsidenten, Friederike Steinberger als 
-			   Vizepräsidentin und einer  starken Fraktion mit Fachkompetenz in den bezirklichen Sachthemen, 
+			<p>Mit  Josef Mederer als unserem BezirkstagsprÃ¤sidenten, Friederike Steinberger als 
+			   VizeprÃ¤sidentin und einer  starken Fraktion mit Fachkompetenz in den bezirklichen Sachthemen, 
 			   bestimmen und gestalten wir die Arbeit und die Zukunft im Bezirk Oberbayern.</p>
 			<br>
 			<p>Besonders wichtig sind dabei die Bereiche:</p>
 			<br>
 			<ul style='margin-left: 20px;' type="square">
-				<li>Soziale Verantwortung, für Menschen mit Behinderung und Hilfe im Alter,</li>
-				<li>Gesundheitsversorgung, für psychisch kranke Mitmenschen,</li>
-				<li>Förderung der Jugendarbeit,</li>
+				<li>Soziale Verantwortung, fÃ¼r Menschen mit Behinderung und Hilfe im Alter,</li>
+				<li>Gesundheitsversorgung, fÃ¼r psychisch kranke Mitmenschen,</li>
+				<li>Forderung der Jugendarbeit,</li>
 				<li>Pflege der oberbayerischen Kultur, Heimat, Brauchtum, Volksmusik, Trachten, Denkmalpflege, Museeumsarbeit, Umwelt,</li>
-				<li>Bildung in besonderen Fördereinrichtungen</li>
+				<li>Bildung in besonderen FÃ¶rdereinrichtungen</li>
 				<li>Solide Finanzwirtschaft mit ausgeglichenem Haushalt.</li>
 			</ul>
 			<br>
 			<p>All diese Bereiche sind in unseren Schwerpunkten der Bezirksarbeit der CSU-Fraktion zusammengefasst und detailliert
-			   dargestellt. Dort können Sie sich einen vertieften Einblick in unsere umfängliche, notwendige und wichtige Arbeit 
+			   dargestellt. Dort kÃ¶nnen Sie sich einen vertieften Einblick in unsere umfÃ¤ngliche, notwendige und wichtige Arbeit 
 			   als dritte kommunale Ebene in Oberbayern verschaffen.</p>
 			 
-			<p>Danke für Ihr Interesse und bei Fragen wenden Sie sich bitte an </p>
+			<p>Danke fÃ¼r Ihr Interesse und bei Fragen wenden Sie sich bitte an </p>
 			<br>
 			<p>Josef Loy,</p>
 			<br>
@@ -50,7 +50,7 @@
 			break;
 	
 		case 1:
-			echo "<div id='div_center'><headline>Bezirksräte</headline></div><br>";
+			echo "<div id='div_center'><headline>BezirksrÃ¤te</headline></div><br>";
 						
 			include "members.php";
 			
