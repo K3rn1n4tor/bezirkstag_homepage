@@ -25,7 +25,7 @@
 	
 	width: 824px;
 	height: auto;
-	min-height: 600px;
+	min-height: 700px;
 	
 	/*box-shadow: 2px 2px 3px #004c72;*/
 	
@@ -81,8 +81,11 @@
 .homepage_image {
 	float:left;
 	
+	width:150px;
+	height:auto;
+	
 	margin-right: 20px; 
-	margin-top: 14px; 
+	margin-top: 10px; 
 	margin-bottom: 20px; 
 	
 	border-width: 2px;
@@ -150,9 +153,21 @@
 	text-align: left;
 }
 
-.link_url_un {
+.link_url_un_offset40 {
 	text-decoration: underline;
 	color: #00558f;
 	font-weight: bold;
 	margin-right: 40px;
+}
+
+.link_url_un {
+	text-decoration: underline;
+	color: #00558f;
+	font-weight: bold;
+}
+
+.link_url_un_bright {
+	text-decoration: underline;
+	color: #0089cf;
+	font-weight: bold;
 }

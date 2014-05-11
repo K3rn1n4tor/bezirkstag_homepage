@@ -1,3 +1,4 @@
+<?php include('auth.php'); ?>
 <!DOCTYPE html>
 <html lang=de>
 <head>
@@ -39,12 +40,25 @@
 		
 		<div style='text-align:right; float:right;'>
 			<div style='margin-top:14px; float:right;'>
-				<a class='link_url_un' href='Impressum'>Impressum</a>
+				<a class='link_url_un_offset40' href='Impressum'>Impressum</a>
 			</div>
 			<div style='margin-top:14px; float:right;'>
 			<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fplugins%2F&amp;width&amp;layout=button_count&amp;
 					action=like&amp;show_faces=true&amp;share=true&amp;height=21" 
 					scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px; width:200px;" allowTransparency="true"></iframe>
+			</div>
+			<div style='position: absolute; left: 40px; margin-top:14px; float:left;'>
+			<?php 
+			if ($sessionLoggedIn)
+			{
+				echo "<strong>Herzlich Willkommen, $username! </strong>";
+				echo "<a class='link_url_un' href='logout.php'>Abmelden?</a>";
+			}
+			else
+			{
+				echo "<a class='link_url_un' href='Anmelden'>Anmelden</a>";
+			}
+			?>
 			</div>
 		</div>
 		</div>

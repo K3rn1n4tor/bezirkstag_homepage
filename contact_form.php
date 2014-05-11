@@ -78,7 +78,7 @@
 			if (empty($value))
 			{
 				displayContactForm();
-				echo "<strong><p>Sie haben vergessen, alle Felder auszufüllen.<br> Bitte füllen Sie alle rot markierten Felder aus!</p></strong>";
+				echo "<err>Sie haben vergessen, alle Felder auszufüllen.<br> Bitte füllen Sie alle rot markierten Felder aus!</err>";
 				return;
 			}
 			

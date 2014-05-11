@@ -14,7 +14,7 @@
 		case 0:?>
 		
 			<div id='div_center'><headline>Startseite</headline></div><br>
-			<img class="homepage_image" src="images/Josef_Loy.jpg" alt="Josef Loy">
+			<img class="homepage_image" src="images/Josef_Loy_new_small.jpg" alt="Josef Loy">
 			
 			<p>Ein herzliches Grüß Gott auf unserer Internetseite.</p>
 			<br>
@@ -49,13 +49,14 @@
 			<?php
 			break;
 	
+		// Members
 		case 1:
 			echo "<div id='div_center'><headline>Bezirksräte</headline></div><br>";
 						
 			include "members.php";
 			
 			break;
-				
+		// Contact
 		case 2:
 			echo "<div id='div_center'><headline>Kontakt</headline></div><br>";
 			
@@ -64,12 +65,24 @@
 			break;
 			
 		case 3:
-
+			echo "<div id='div_center'><headline>Dokumente</headline></div><br>";
+			
+			include "documents.php";
 			break;
 			
-		case 4:
+		// Impressum
+		case 10:
+			echo "<div id='div_center'><headline>Impressum</headline></div><br>";
 			
 			include "impressum.php";
+			
+			break;
+			
+		// LogIn
+		case 110:
+			echo "<div id='div_center'><headline>Anmeldung</headline></div><br>";
+			
+			include "login.php";
 			
 			break;
 	}

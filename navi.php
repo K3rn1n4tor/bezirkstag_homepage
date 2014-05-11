@@ -8,7 +8,7 @@
 		$page = $_GET['page'];
 	}
 	
-	$naviItems = array("Startseite", "Bezirksräte", "Kontakt");
+	$naviItems = array("Startseite", "Bezirksräte", "Kontakt", "Dokumente");
 	
 	$counter = 0;
 	foreach ($naviItems as $item)

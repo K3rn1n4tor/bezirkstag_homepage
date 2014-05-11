@@ -290,7 +290,7 @@ URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=374
 Stimmkreis:	München-Milbertshofen (Direktkandidatin)
 Straße:	Nymphenburger Straße 209
 Ort:	80639 München
-E-Mail:	sabine.schuster.csu@gmx.de
+E-Mail:	sabine.wohlrab@gmx.de
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====

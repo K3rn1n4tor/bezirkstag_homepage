@@ -54,10 +54,17 @@ function {
 }
 
 info {
-	font-color: black;
+	color: black;
 	font-size: 12pt;
 	font-style: italic;
 	font-weight: bold;
+}
+
+err {
+	color: #cc4444;
+	font-size: 12pt;
+	font-weight: bold;
+	
 }
 
 #members_right table, tr, td
