@@ -142,6 +142,25 @@ table.contact td input[type="submit"] {
 	border-color: #2c799f;
 }
 
+.buttonStyle {
+	
+	text-shadow: 1px 1px 2px #194260;
+	
+	width: 240px;
+	height: 30px;
+	
+	background-color: #3b99c8;
+	
+	font-weight: bold;
+	color: white;
+	
+	cursor: pointer;
+	
+	border-style: solid;
+	border-width: 1px;
+	border-color: #2c799f;
+}
+
 table.contact td input[type="submit"]:focus {
 	background-color: #3b99c8;
 	
