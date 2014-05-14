@@ -67,6 +67,13 @@ err {
 	
 }
 
+done {
+	color: #448844;
+	font-size: 12pt;
+	font-weight: bold;
+	
+}
+
 #members_right table, tr, td
 {
 	padding: 1px;

@@ -7,3 +7,5 @@ RewriteRule ^Kontakt$ index.php?page=2
 RewriteRule ^Dokumente$ index.php?page=3
 RewriteRule ^Anmelden$ index.php?page=110
 RewriteRule ^Impressum$ index.php?page=10
+php_value upload_max_filesize 40M
+php_value post_max_size 42M
