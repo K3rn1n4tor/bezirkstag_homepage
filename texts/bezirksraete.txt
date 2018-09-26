@@ -174,13 +174,14 @@ E-Mail:	kuhn-barbara@t-online.de
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====
-Name:	Alexandra Langer
+Name:	Alexandra Bertl
 Bild:	https://sessionnet.edv-obb.de/bi/im/pe384.jpg
 URL:	https://sessionnet.edv-obb.de/bi/kp0051.asp?__kpenr=384
 Stimmkreis:	Weilheim-Schongau (Direktkandidatin)
-Straße:	Trogerstraße 20
+Straße:	Huosiring 12
 Ort:	82362 Weilheim
-E-Mail:	langer-alexandra@gmx.de
+E-Mail:	alexandra-bertl@gmx.de
+Flyer:	images/flyer_bertl.jpg
 =====END_MEMBER=====
 
 =====BEGIN_MEMBER=====

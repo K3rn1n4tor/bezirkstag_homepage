@@ -31,6 +31,7 @@
 		$mail = "<a class='member_mail' href='mailto:$mail'>$mail</a>";
 		$town = $member['Ort:'];
 		$street = $member['Straße:'];
+		$flyer = (array_key_exists("Flyer:", $member)) ? $member['Flyer:'] : "";
 		
 		echo "<table>";
 			echo "<tr><td class='attr'>Straße:</td><td>$street</td></tr>";
@@ -40,6 +41,8 @@
 		echo "</table><br>";
 	
 			echo "<a class='details' href='$page' title='Details zu $name'>Details</a>";
+			if ($flyer !== ""){
+			echo "<br><a class='details' href='$flyer' title='Flyer von $name'>Flyer zum Wahlkampf</a>";}
 		?>
 		</div>
 		<div id='content_clear'></div>

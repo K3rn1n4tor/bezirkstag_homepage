@@ -15,7 +15,7 @@
 		
 			<div id='div_center'><headline>Startseite</headline></div><br>
 			<img class="homepage_image" src="images/Josef_Loy_new_small.jpg" alt="Josef Loy">
-			
+			<br>
 			<p>Ein herzliches Grüß Gott auf unserer Internetseite.</p>
 			<br>
 			<p>Die CSU-Fraktion im Bezirkstag von Oberbayern ist mit 30 Mitgliedern die stärkste Fraktion.</p>
@@ -25,6 +25,7 @@
 			   bestimmen und gestalten wir die Arbeit und die Zukunft im Bezirk Oberbayern.</p>
 			<br>
 			<p>Besonders wichtig sind dabei die Bereiche:</p>
+			<br>
 			<br>
 			<ul style='margin-left: 20px;' type="square">
 				<li>Soziale Verantwortung, für Menschen mit Behinderung und Hilfe im Alter,</li>
@@ -44,7 +45,12 @@
 			<p>Josef Loy,</p>
 			<br>
 			<p>Fraktionsvorsitzender der CSU im Bezirkstag von Oberbayern.</p>
-			
+			<br>
+			<p><strong>Hier ist unser Flyer zur Bezirkstagswahl 2018. Zum Download einfach auf das Bild klicken:</strong></p>
+			<br>
+			<a href="docs/CSU_Flyer_Wahl2018.pdf">
+				<img border="0" src="images/Flyer_Wahl2018.png" alt="Flyer Wahl 2018" width="720px">
+			</a>
 			
 			<?php
 			break;
